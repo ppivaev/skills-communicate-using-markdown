@@ -22,4 +22,6 @@ Another list:
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
+One more line...
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
